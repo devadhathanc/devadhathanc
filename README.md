@@ -2,5 +2,5 @@
   
 __Computer Science Engineer__  
   
-*Interests:* `Backend Systems` `Decentralized Systems` `Cloud Ops` `Developments`  
+*Interests:* `Backend Deployments` `Decentralized Systems` `Cloud Ops` `Low-latency`  
 *langs:* `Java` `Python` `Go` `Typescript`
